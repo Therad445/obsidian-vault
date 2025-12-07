@@ -1,4 +1,4 @@
-﻿# Tasks — Sage Observability
+# Tasks — Sage Observability
 
 ## Backlog
 - [ ] 
