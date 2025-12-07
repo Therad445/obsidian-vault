@@ -1,3 +1,3 @@
-﻿# Notes — Personal Brand & Portfolio
+# Notes — Personal Brand & Portfolio
 
 Свободные заметки по проекту.

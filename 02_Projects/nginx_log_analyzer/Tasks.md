@@ -1,4 +1,4 @@
-﻿# Tasks — Nginx Log Analyzer
+# Tasks — Nginx Log Analyzer
 
 ## Backlog
 - [ ] 

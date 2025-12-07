@@ -1,4 +1,4 @@
-﻿# T-Bank — SRE (Sage)
+# T-Bank — SRE (Sage)
 
 ## Роль
 - 

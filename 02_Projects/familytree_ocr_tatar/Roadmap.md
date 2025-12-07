@@ -1,4 +1,4 @@
-﻿# Roadmap — FamilyTree OCR (Tatar)
+# Roadmap — FamilyTree OCR (Tatar)
 
 ## Ближайшие 3 месяца
 - 

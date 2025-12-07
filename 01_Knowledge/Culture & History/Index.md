@@ -1,4 +1,4 @@
-﻿# Culture & History — Index
+# Culture & History — Index
 
 ## Направления
 - Немецкая культура

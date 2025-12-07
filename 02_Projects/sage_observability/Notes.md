@@ -1,3 +1,3 @@
-﻿# Notes — Sage Observability
+# Notes — Sage Observability
 
 Свободные заметки по проекту.

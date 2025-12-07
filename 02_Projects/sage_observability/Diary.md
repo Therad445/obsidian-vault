@@ -1,4 +1,4 @@
-﻿# Diary — Sage Observability
+# Diary — Sage Observability
 
 ## {{DATE}}
 - Что сделал:

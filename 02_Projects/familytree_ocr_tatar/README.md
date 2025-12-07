@@ -1,4 +1,4 @@
-﻿# FamilyTree OCR (Tatar)
+# FamilyTree OCR (Tatar)
 
 #tags #project #research
 

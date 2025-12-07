@@ -1,4 +1,4 @@
-﻿# AI & ML — Index
+# AI & ML — Index
 
 ## Темы
 - Базовый ML

@@ -1,4 +1,4 @@
-﻿# Tasks — MLOps: Log Anomaly Detection
+# Tasks — MLOps: Log Anomaly Detection
 
 ## Backlog
 - [ ] 

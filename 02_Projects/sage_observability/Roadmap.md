@@ -1,4 +1,4 @@
-﻿# Roadmap — Sage Observability
+# Roadmap — Sage Observability
 
 ## Ближайшие 3 месяца
 - 

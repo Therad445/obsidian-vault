@@ -1,4 +1,4 @@
-﻿# Sage Observability
+# Sage Observability
 
 #tags #project #sre
 

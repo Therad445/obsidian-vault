@@ -1,4 +1,4 @@
-﻿# Tasks — ai
+# Tasks — ai
 
 ## Backlog
 - [ ] 

@@ -1,4 +1,4 @@
-﻿# MLOps: Log Anomaly Detection
+# MLOps: Log Anomaly Detection
 
 #tags #project #mlops
 

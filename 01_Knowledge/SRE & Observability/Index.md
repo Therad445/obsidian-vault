@@ -1,4 +1,4 @@
-﻿# SRE & Observability — Index
+# SRE & Observability — Index
 
 ## Основные темы
 - Метрики (Prometheus, RED/USE, SLO)

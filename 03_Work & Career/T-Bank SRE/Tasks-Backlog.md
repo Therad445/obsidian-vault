@@ -1,4 +1,4 @@
-﻿# Backlog задач — T-Bank SRE
+# Backlog задач — T-Bank SRE
 
 ## Текущие задачи
 - [ ] 

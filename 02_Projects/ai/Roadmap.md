@@ -1,4 +1,4 @@
-﻿# Roadmap — ai
+# Roadmap — ai
 
 ## Q1
 - 

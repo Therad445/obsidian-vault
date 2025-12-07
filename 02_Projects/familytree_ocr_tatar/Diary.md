@@ -1,4 +1,4 @@
-﻿# Diary — FamilyTree OCR (Tatar)
+# Diary — FamilyTree OCR (Tatar)
 
 ## {{DATE}}
 - Что сделал:

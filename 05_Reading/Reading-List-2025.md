@@ -1,4 +1,4 @@
-﻿# Reading List 2025
+# Reading List 2025
 
 ## Книги
 - [ ] 

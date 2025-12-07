@@ -1,4 +1,4 @@
-﻿# Roadmap — Personal Brand & Portfolio
+# Roadmap — Personal Brand & Portfolio
 
 ## Ближайшие 3 месяца
 - 

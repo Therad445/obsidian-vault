@@ -1,4 +1,4 @@
-﻿# Tasks — FamilyTree OCR (Tatar)
+# Tasks — FamilyTree OCR (Tatar)
 
 ## Backlog
 - [ ] 

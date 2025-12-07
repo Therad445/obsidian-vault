@@ -1,4 +1,4 @@
-﻿# Blockchain — Index
+# Blockchain — Index
 
 ## Темы
 - Консенсус / game theory

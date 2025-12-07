@@ -1,4 +1,4 @@
-﻿# Papers to Read
+# Papers to Read
 
 ## MLOps / SRE / Observability
 - [ ] 

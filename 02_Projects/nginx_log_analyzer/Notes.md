@@ -1,3 +1,3 @@
-﻿# Notes — Nginx Log Analyzer
+# Notes — Nginx Log Analyzer
 
 Свободные заметки по проекту.

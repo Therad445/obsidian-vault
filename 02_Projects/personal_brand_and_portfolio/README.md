@@ -1,4 +1,4 @@
-﻿# Personal Brand & Portfolio
+# Personal Brand & Portfolio
 
 #tags #project #career
 

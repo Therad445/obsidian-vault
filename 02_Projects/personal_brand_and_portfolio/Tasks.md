@@ -1,4 +1,4 @@
-﻿# Tasks — Personal Brand & Portfolio
+# Tasks — Personal Brand & Portfolio
 
 ## Backlog
 - [ ] 

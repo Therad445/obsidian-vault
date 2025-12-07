@@ -1,4 +1,4 @@
-﻿# Diary — Personal Brand & Portfolio
+# Diary — Personal Brand & Portfolio
 
 ## {{DATE}}
 - Что сделал:

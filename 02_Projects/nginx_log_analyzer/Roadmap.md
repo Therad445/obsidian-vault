@@ -1,4 +1,4 @@
-﻿# Roadmap — Nginx Log Analyzer
+# Roadmap — Nginx Log Analyzer
 
 ## Ближайшие 3 месяца
 - 

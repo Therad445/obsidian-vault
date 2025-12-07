@@ -1,4 +1,4 @@
-﻿# Diary — Nginx Log Analyzer
+# Diary — Nginx Log Analyzer
 
 ## {{DATE}}
 - Что сделал:

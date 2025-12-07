@@ -1,4 +1,4 @@
-﻿# ai
+# ai
 
 #tags #project #mlops
 

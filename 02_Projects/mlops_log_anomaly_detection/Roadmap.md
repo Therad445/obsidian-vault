@@ -1,4 +1,4 @@
-﻿# Roadmap — MLOps: Log Anomaly Detection
+# Roadmap — MLOps: Log Anomaly Detection
 
 ## Ближайшие 3 месяца
 - 

@@ -1,3 +1,3 @@
-﻿# Notes — FamilyTree OCR (Tatar)
+# Notes — FamilyTree OCR (Tatar)
 
 Свободные заметки по проекту.

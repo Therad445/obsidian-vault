@@ -1,4 +1,4 @@
-﻿# Nginx Log Analyzer
+# Nginx Log Analyzer
 
 #tags #project #sre
 

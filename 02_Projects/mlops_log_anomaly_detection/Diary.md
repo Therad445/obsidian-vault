@@ -1,4 +1,4 @@
-﻿# Diary — MLOps: Log Anomaly Detection
+# Diary — MLOps: Log Anomaly Detection
 
 ## {{DATE}}
 - Что сделал:
