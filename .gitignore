@@ -1,0 +1,13 @@
+# Общее
+.DS_Store
+Thumbs.db
+
+# Obsidian служебное
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-*.json
+.obsidian/plugins/obsidian-git/data.json
+
+# Временные файлы
+~$*
+*.tmp
