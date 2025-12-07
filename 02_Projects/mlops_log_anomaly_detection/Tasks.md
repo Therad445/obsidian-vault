@@ -1,4 +1,4 @@
-﻿# Tasks — ai
+﻿# Tasks — MLOps: Log Anomaly Detection
 
 ## Backlog
 - [ ] 

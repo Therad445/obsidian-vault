@@ -1,4 +1,4 @@
-# Diary вЂ” AI
+# Diary — ai
 
 ## {{DATE}}
 - 

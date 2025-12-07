@@ -1,4 +1,4 @@
-# New-Project.ps1
+﻿# New-Project.ps1
 # Creates a project skeleton inside 02_Projects
 
 function Slugify {

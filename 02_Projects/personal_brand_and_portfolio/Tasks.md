@@ -1,4 +1,4 @@
-﻿# Tasks — ai
+﻿# Tasks — Personal Brand & Portfolio
 
 ## Backlog
 - [ ] 

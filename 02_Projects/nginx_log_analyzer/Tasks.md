@@ -1,4 +1,4 @@
-﻿# Tasks — ai
+﻿# Tasks — Nginx Log Analyzer
 
 ## Backlog
 - [ ] 
