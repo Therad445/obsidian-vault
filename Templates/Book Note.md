@@ -1,4 +1,4 @@
-﻿# {{BOOK_TITLE}}, {{AUTHOR}}
+# {{BOOK_TITLE}}, {{AUTHOR}}
 
 ## Рћ С‡С‘Рј РєРЅРёРіР°
 - 
